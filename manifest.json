@@ -1,0 +1,58 @@
+{
+  "AppDescription": {
+    "de": "Die Zeichnung Spiel auf Spotify",
+    "en": "The drawing game on Spotify",
+    "es": "El juego de dibujo en Spotify",
+    "es-419": "El juego de dibujo en Spotify",
+    "fr": "Le jeu de dessin sur Spotify",
+    "it": "Il gioco disegno su Spotify",
+    "nl": "De teken game op Spotify",
+    "pl": "Gra rysowanie na Spotify",
+    "zh-Hant": "对Spotify的绘图游戏"
+  },
+  "AppIcon": {
+    "18x18": "images/icons/icon-18x18.png",
+    "36x18": "images/icons/icon-36x18.png",
+    "32x32": "images/icons/icon-32x32.png",
+    "64x64": "images/icons/icon-64x64.png",
+    "128x128": "images/icons/icon-128x128.png",
+    "300x300": "images/icons/icon-300x300.png"
+  },
+  "AppName": {
+    "de": "Songskizze ",
+    "en": "Songsketch",
+    "es": "bosquejo canción",
+    "es-419": "bosquejo canción",
+    "fr": "chanson croquis",
+    "it": "canzone schizzo",
+    "nl": "Songsketch",
+    "pl": "szkic piosenki",
+    "zh-Hant": "歌草图"
+  },
+  "BundleIdentifier": "songsketch-app",
+  "BundleType": "Application",
+  "BundleVersion": "0.0.1",
+  "Dependencies": {
+    "api": "1.0.0",
+    "views": "1.10.0"
+  },
+  "RequiredPermissions": [
+    "https://api.mygreatapp.com"
+  ],
+  "SupportedDeviceClasses": [
+    "Web",
+    "Desktop"
+  ],
+  "SupportedLanguages": [
+    "de",
+    "en",
+    "es",
+    "es-419",
+    "fr",
+    "it",
+    "nl",
+    "pl",
+    "zh-Hant"
+  ],
+  "VendorIdentifier": "com.myorganization"
+}

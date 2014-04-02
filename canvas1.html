@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Songsketch</title>
+    <style>
+    	canvas {
+    		position: absolute;
+    	}
+    </style>
+	<link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+  <div id="header"><a href="index.html"><img src="images/logotitel.png" alt="logo" onclick="index.html"/></a></div>
+    <div id="canvasDiv"></div>
+    <!--[if IE]><script type="text/javascript" src="/scripts/excanvas.js"></script><![endif]-->
+    <script type="text/javascript" src="/scripts/drawing-app-with-bucket.js"></script>
+    <script type="text/javascript">
+    	 drawingApp.init();
+	</script>
+	<div id="leaderboards"></div>
+	<div id="friends"></div>
+  </body>
+</html>

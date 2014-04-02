@@ -1,0 +1,35 @@
+/* Include your CSS rules here */
+html{
+    background-color: white;
+    font-family: "Lucida Grande",sans-serif;
+    color: #0993c7;
+}
+#header{
+    width:100%;
+    height: 38px;
+    background-color: #e6e6e6;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#header img{
+    width: 200px;
+    height: 37px;
+}
+
+#footer{
+    background-color: #e6e6e6;
+    width: 100%;
+    height: 20px;
+    text-align: center;
+}
+
+#canvasDiv{
+    padding-top: 10px;
+}
+
+#leaderboards{
+    width: 50%;
+	height:50px;
+	background-color: #e6e6e6;
+}
